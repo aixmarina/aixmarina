@@ -1,4 +1,4 @@
-# ✨Welcome to my code journey✨
+# ✨Welcome to my coding journey✨
 
 - The languages I've learnt so far: ```HTML``` | ```CSS``` | ```SCSS/SASS``` | ```BOOTSTRAP``` | ```GIT``` | ```JAVASCRIPT```
 - I’m currently learning ```React JS```
