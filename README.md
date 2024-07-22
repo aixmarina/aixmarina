@@ -1,8 +1,7 @@
 # ✨Welcome to my coding journey✨
 
-- The languages I've learnt so far: ```HTML``` | ```CSS``` | ```SCSS/SASS``` | ```BOOTSTRAP``` | ```GIT``` | ```JAVASCRIPT```
+- The languages I've learnt so far: ```HTML``` | ```CSS``` | ```SCSS/SASS``` | ```BOOTSTRAP``` | ```GIT``` | ```JAVASCRIPT``` | ```TYPESCRIPT```
 - I’m currently learning ```React JS```
-- I'll continue my journey studying this technologies soon: ```Angular``` | ```Node JS```
 - I’m looking to collaborate on any project where I could develop and improve my programming skills
 - You can contact me here: **marina.aix.gomez@gmail.com**
 
